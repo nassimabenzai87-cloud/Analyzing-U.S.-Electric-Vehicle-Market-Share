@@ -48,6 +48,7 @@ By analyzing the distribution of alternative fuel vehicle usage on a map of the 
 ![Distribution_of_Alternative_Fuel_Vehicles_Across_US_States](Distribution_of_Alternative_Fuel_Vehicles_Across_US_States.png)
 
 By analyzing the maps showing the usage rates of electric vehicles and alternative fuel vehicles, a clear inversion of geographical trends becomes apparent. While electric vehicles are predominantly concentrated along the East Coast — particularly in urban and technologically advanced regions — their presence is relatively limited in the central United States. In contrast, alternative fuels are much more widely used in central states, where their adoption is supported by the availability of biofuels, the importance of agricultural activity, and favorable local policies. Conversely, their usage remains low along the East Coast, where consumer preferences tend to favor electric mobility and where charging infrastructure is more extensively developed. This geographical contrast highlights distinct regional dynamics shaped by local resources, public policies, and energy consumption patterns.
+
 ![Geographical_Divergence_Between_Electric_and_Alternative_Fuel_Vehicle_Adoption](Geographical_Divergence_Between_Electric_and_Alternative_Fuel_Vehicle_Adoption.png)
 
 ### Conclusion
