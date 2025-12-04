@@ -6,14 +6,14 @@ The objective of this analysis is to identify the states where EV adoption is gr
 ### Assessment of Traditional Fuel Distribution and Geographic Dominance.
 The analysis of vehicles by fuel type in the United States shows a strong dominance of conventional fossil fuel vehicles, which account for 88.60% of the fleet. Vehicles using alternative fuels remain limited at only 7.4%, while electric vehicles are gradually expanding. Among electric-powered vehicles, Hybrid Electric Vehicles (HEVs) represent the largest share.
 
-![Fuel Type Usage Rate in the United States](Fuel_US.png)
+![Fuel_Type_Usage_Rate_in_US](Fuel_Type_Usage_Rate_in_US.png)
 
 This national trend is confirmed when examining vehicle distribution by state: conventional fossil fuel vehicles dominate, alternative fuel vehicles have a small presence, and electric vehicle adoption remains limited, with HEVs leading among electric-powered options.
-![Distribution of Fuel Types by State]( Fuel_Types_State.png)
+![Distribution_of_Fuel_Types_by_State](Distribution_of_Fuel_Types_by_State.png)
 
 ### Analysis of Regional EV Adoption Maturity and Driving Factors.
 Electric vehicle usage in the United States remains relatively modest, with a national average of around 1.3%. This overall rate, still low, nevertheless hides significant regional disparities. Indeed, the adoption of electric vehicles varies considerably from one state to another, reflecting marked differences in public policies, charging infrastructure, economic dynamism, and environmental awareness.
-![EV_Adoption_US](EV_Adoption_US.png)
+![EV_Adoption_US](Adoption_of_EV_Across_the_US.png)
 
 On one hand, several states are experiencing strong growth in electric vehicle usage. California, with a rate of 3.54%, stands far ahead of all others. The state benefits from a dense charging network, attractive financial incentives, and a culture that favors innovation and clean technologies. Other states such as Hawaii (2.44%), Washington (2.38%), and Oregon are also seeing significant increases, supported by proactive policies aimed at promoting the energy transition. Their leadership reflects sustained efforts to encourage the adoption of low-emission vehicles.
 
@@ -45,9 +45,10 @@ By analyzing the distribution of alternative fuel vehicle usage on a map of the 
 2.	Local policies and regional incentives: Several states in the central United States have implemented incentive programs to encourage the use of alternative fuels, such as tax credits for vehicles or subsidies for distribution infrastructure. These measures contribute to increased adoption in these regions.
 3.	Infrastructure and accessibility: The presence of a sufficient network of stations offering alternative fuels supports their usage. In contrast, coastal states show lower adoption rates, partly due to limited infrastructure and a stronger preference for electric vehicles
 
-![Distribution_of_Alternative_Fuel_Vehicles_Across_UStates.png](Distribution_of_Alternative_Fuel_Vehicles_Across_UStates.png)
+![Distribution_of_Alternative_Fuel_Vehicles_Across_US_States](Distribution_of_Alternative_Fuel_Vehicles_Across_US_States.png)
 
 By analyzing the maps showing the usage rates of electric vehicles and alternative fuel vehicles, a clear inversion of geographical trends becomes apparent. While electric vehicles are predominantly concentrated along the East Coast — particularly in urban and technologically advanced regions — their presence is relatively limited in the central United States. In contrast, alternative fuels are much more widely used in central states, where their adoption is supported by the availability of biofuels, the importance of agricultural activity, and favorable local policies. Conversely, their usage remains low along the East Coast, where consumer preferences tend to favor electric mobility and where charging infrastructure is more extensively developed. This geographical contrast highlights distinct regional dynamics shaped by local resources, public policies, and energy consumption patterns.
+![Geographical_Divergence_Between_Electric_and_Alternative_Fuel_Vehicle_Adoption](Geographical_Divergence_Between_Electric_and_Alternative_Fuel_Vehicle_Adoption.png)
 
 ### Conclusion
 This study aimed to analyze the adoption of electric vehicles (EVs) across the United States, both in terms of usage rates and geographic distribution. The results show a strong concentration of EVs on the West Coast, while their presence remains significantly lower in the central part of the country. This distribution can be explained by several factors, including population density, local incentive policies, the level of urbanization, and the availability of charging infrastructure.
